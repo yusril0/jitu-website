@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+.logo-container img {
+    max-width: 200px;
+}
+
+.slideshow-container {
+    max-width: 1000px;
+    margin: 20px auto;
+    position: relative;
+}
+
+.mySlides {
+    display: none;
+}
+
+img {
+    width: 100%;
+}
+/* ... (CSS sebelumnya) ... */
+
+header {
+    background-color: #333;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.whatsapp-button {
+    margin-right: 20px;
+}
+
+button {
+    padding: 10px;
+    background-color: #25d366;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+
+/* Add styling for navigation dots if needed */
+
